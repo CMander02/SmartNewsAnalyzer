@@ -26,3 +26,5 @@ This repository is the framework for a Smart Document Analyzer for EC530 class.
 ##### Database design
 
 I use SQL for all of my modules and as the main database.
+
+Due to my ability I don't complete the project, including the loggin part and the packaging part.
